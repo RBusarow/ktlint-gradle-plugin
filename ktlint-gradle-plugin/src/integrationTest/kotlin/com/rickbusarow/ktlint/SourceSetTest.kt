@@ -21,8 +21,6 @@ package com.rickbusarow.ktlint
 import com.rickbusarow.ktlint.internal.Ansi.Companion.noAnsi
 import com.rickbusarow.ktlint.internal.createSafely
 import com.rickbusarow.ktlint.internal.remove
-import io.kotest.matchers.shouldBe
-import io.kotest.matchers.string.shouldInclude
 import org.gradle.testkit.runner.TaskOutcome
 import org.junit.jupiter.api.Test
 
